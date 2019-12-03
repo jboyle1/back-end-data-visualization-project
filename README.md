@@ -1,14 +1,5 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+### https://jboyle1.github.io/www.genderinacademia.co.uk/
 
+## Name of Project: Gender in academia
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+In this training project I learned how to utilize D3, DC and Crossfire to create a spreadsheet of graphs that relate to salaries and participation in academia broken down by gender. This project was an exercise based on data visualisation. It was a video tutored project I found this a great stepping stone in the use of data in my web development practise. At this point I was learning Javascript Libraries trying to branch to back end web development. 
